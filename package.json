@@ -1,0 +1,11 @@
+{
+  "name": "decode-message",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "TheShawnMiranda",
+  "description": "A NodeJS exercise to decode a message from an input file"
+}
